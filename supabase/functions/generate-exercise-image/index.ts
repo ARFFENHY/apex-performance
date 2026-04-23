@@ -37,13 +37,13 @@ serve(async (req) => {
       }
     }
 
-    const prompt = `Professional photography of ${gender} athlete doing ${exerciseName}, ${position} position in a modern luxury gym. Hyper-realistic, dramatic lighting, 8k resolution, cinematic, action shot`;
+    const prompt = `Hyper-realistic professional fitness photography of a ${gender} athlete performing ${exerciseName}, ${position} position. Luxury modern gym setting, cinematic dramatic lighting, 8k resolution, highly detailed, photorealistic, commercial style, shot on 35mm lens.`;
     
     // Generar con Pollinations.ai (Gratis, sin API Key)
-    // Añadimos un "seed" aleatorio para evitar que el servidor devuelva la misma imagen cacheada
+    // Usamos el modelo 'flux' para máxima calidad realista
     const encodedPrompt = encodeURIComponent(prompt);
     const randomSeed = Math.floor(Math.random() * 99999999);
-    const pollinationsUrl = `https://image.pollinations.ai/prompt/${encodedPrompt}?width=800&height=800&nologo=true&model=flux&seed=${randomSeed}`;
+    const pollinationsUrl = `https://image.pollinations.ai/prompt/${encodedPrompt}?width=1024&height=1024&nologo=true&model=flux&seed=${randomSeed}`;
 
     const imgRes = await fetch(pollinationsUrl);
     if (!imgRes.ok) throw new Error(`Pollinations API failed: ${imgRes.statusText}`);

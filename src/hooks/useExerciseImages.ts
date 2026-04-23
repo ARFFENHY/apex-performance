@@ -180,39 +180,31 @@ export function useGenerateExerciseImage() {
       exerciseName,
       gender = 'male',
       position = 'start',
+      force = true,
     }: {
       exerciseName: string;
       description?: string;
       muscles?: string;
       gender?: 'male' | 'female';
       position?: 'start' | 'end';
+      force?: boolean;
     }) => {
-      console.log(`[FRONTEND] Generating exercise via browser: ${exerciseName}`);
-
-      const prompt = `Professional fitness photography of a muscular person performing the exercise ${exerciseName}. Focus on muscles. Gym environment, high-end resolution, cinematic lighting.`;
-      const url = `https://image.pollinations.ai/prompt/${encodeURIComponent(prompt)}?width=800&height=800&nologo=true&model=turbo&seed=${Math.floor(Math.random()*999999)}`;
-      
-      const res = await fetch(url);
-      if (!res.ok) throw new Error("Pollinations API congestion. Intente nuevamente en breves.");
-      
-      const blob = await res.blob();
-      const file = new File([blob], `${exerciseName}_${gender}_${position}.png`, { type: "image/png" });
-
-      const imageUrl = await uploadMutation.mutateAsync({
-        exerciseName,
-        gender,
-        position,
-        file
+      const { data, error } = await supabase.functions.invoke('generate-exercise-image', {
+        body: { exerciseName, gender, position, force },
       });
-      return imageUrl;
+
+      if (error) throw error;
+      if (data?.error) throw new Error(data.error);
+
+      return data.image_url;
     },
     onSuccess: (_, variables) => {
       qc.invalidateQueries({ queryKey: ['exercise_images'] });
-      toast.success(`Variante generada: ${variables.exerciseName}`);
+      toast.success(`Imagen actualizada: ${variables.exerciseName}`);
     },
     onError: (err: any) => {
-      console.error(`[MUTATION_FAIL]:`, err);
-      toast.error(`Aviso: ${err.message || 'Error de IA'}`);
+      console.error(`[GENERATION_FAIL]:`, err);
+      toast.error(`Error de IA: ${err.message || 'Intente nuevamente'}`);
     },
   });
 }

@@ -15,41 +15,50 @@ export function MassGenerationManager() {
   const runGeneration = async () => {
     setIsGenerating(true);
     let completed = 0;
-    const total = EXERCISE_CATALOG.length + RECIPE_CATALOG.length; // 1 position per exercise for mass speed
+    const total = (EXERCISE_CATALOG.length * 2) + RECIPE_CATALOG.length; // 2 genders per exercise + recipes
 
     try {
       setStatus('Comenzando regeneración de ejercicios...');
       for (const ex of EXERCISE_CATALOG) {
-        if (!isGenerating) break; // Allow cancel? no mechanism yet, but good practice
-        setStatus(`Generando: ${ex.name} (Ejercicios)...`);
-        try {
-          const { data, error } = await supabase.functions.invoke('generate-exercise-image', {
-            body: { 
-              exerciseName: ex.name, 
-              description: ex.description, 
-              muscles: ex.muscles, 
-              position: 'start', 
-              gender: 'male', 
-              force: true 
-            },
-          });
-          if (error) throw error;
-          if (data?.error) throw new Error(data.error);
-        } catch (err: any) {
-          console.error(`Falló ejercicio ${ex.name}:`, err);
-          toast.error(`Error en ${ex.name}: ${err.message}`);
-          setStatus(`Error crítico alcanzado.`);
-          setIsGenerating(false);
-          return; // Detenemos en caso de error para no bombardear
+        if (!isGenerating) break;
+
+        // Generar para ambos géneros
+        for (const gender of ['male', 'female'] as const) {
+          if (!isGenerating) break;
+          
+          setStatus(`Generando: ${ex.name} (${gender === 'male' ? 'Hombre' : 'Mujer'})...`);
+          
+          try {
+            const { data, error } = await supabase.functions.invoke('generate-exercise-image', {
+              body: { 
+                exerciseName: ex.name, 
+                description: ex.description, 
+                muscles: ex.muscles, 
+                position: 'start', 
+                gender: gender, 
+                force: true 
+              },
+            });
+
+            if (error) throw error;
+            if (data?.error) throw new Error(data.error);
+            
+            completed++;
+            setProgress((completed / total) * 100);
+          } catch (err: any) {
+            console.error(`Falló ejercicio ${ex.name} (${gender}):`, err);
+            toast.error(`Error en ${ex.name} (${gender}): ${err.message}`);
+            // No detenemos el proceso completo, solo saltamos este
+          }
+          
+          // Pequeño retardo para no saturar la API
+          await new Promise(r => setTimeout(r, 800));
         }
-        completed++;
-        setProgress((completed / total) * 100);
-        // Pequeño retardo para no saturar
-        await new Promise(r => setTimeout(r, 600));
       }
 
       setStatus('Comenzando regeneración de recetas...');
       for (const rec of RECIPE_CATALOG) {
+        if (!isGenerating) break;
         setStatus(`Generando: ${rec.name} (Recetas)...`);
         try {
           const { data, error } = await supabase.functions.invoke('generate-recipe-image', {
@@ -57,16 +66,16 @@ export function MassGenerationManager() {
           });
           if (error) throw error;
           if (data?.error) throw new Error(data.error);
+          
+          completed++;
+          setProgress((completed / total) * 100);
         } catch (err: any) {
           console.error(`Falló receta ${rec.name}:`, err);
           toast.error(`Error en receta ${rec.name}: ${err.message}`);
-          setStatus(`Error crítico alcanzado en recetas.`);
-          setIsGenerating(false);
-          return;
+          // Continuamos con la siguiente
         }
-        completed++;
-        setProgress((completed / total) * 100);
-        await new Promise(r => setTimeout(r, 600));
+        
+        await new Promise(r => setTimeout(r, 800));
       }
 
       toast.success('¡Generación masiva completada exitosamente!');

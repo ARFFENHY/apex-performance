@@ -35,15 +35,15 @@ serve(async (req) => {
       }
     }
 
-    const prompt = `Gourmet photography of delicious ${recipe_name}. 8k resolution, professional food styling, highly detailed, photorealistic, luxury restaurant presentation.`;
+    const prompt = `Gourmet food photography of a delicious ${recipe_name}. Professional food styling, 8k resolution, cinematic lighting, highly detailed, photorealistic, luxury restaurant presentation, shot on 50mm macro lens.`;
     
-    // Generar con api.airforce (Gratis, menos bloqueos CORS/Rate limit que Pollinations)
+    // Generar con Pollinations.ai (Gratis, sin API Key)
     const encodedPrompt = encodeURIComponent(prompt);
     const randomSeed = Math.floor(Math.random() * 99999999);
-    const airforceUrl = `https://api.airforce/imagine2?prompt=${encodedPrompt}&size=1:1&seed=${randomSeed}`;
+    const pollinationsUrl = `https://image.pollinations.ai/prompt/${encodedPrompt}?width=1024&height=1024&nologo=true&model=flux&seed=${randomSeed}`;
 
-    const imgRes = await fetch(airforceUrl);
-    if (!imgRes.ok) throw new Error(`API.Airforce failed: ${imgRes.statusText}`);
+    const imgRes = await fetch(pollinationsUrl);
+    if (!imgRes.ok) throw new Error(`Pollinations API failed: ${imgRes.statusText}`);
 
     const buffer = await imgRes.arrayBuffer();
     const fileName = `recipes/${recipe_name.toLowerCase().replace(/\s+/g, "_")}_${Date.now()}.png`;

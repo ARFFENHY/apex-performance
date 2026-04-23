@@ -121,32 +121,27 @@ export function useGenerateRecipeImage() {
   return useMutation({
     mutationFn: async ({
       recipeName,
+      force = true,
     }: {
       recipeName: string;
-      ingredients?: string;
+      force?: boolean;
     }) => {
-      console.log(`[FRONTEND] Fetching Pollinations directly from browser: ${recipeName}`);
-      
-      const prompt = `Gourmet photography of delicious ${recipeName}. 8k resolution, professional food styling, highly detailed, photorealistic.`;
-      const url = `https://image.pollinations.ai/prompt/${encodeURIComponent(prompt)}?width=800&height=800&nologo=true&model=turbo&seed=${Math.floor(Math.random()*999999)}`;
-      
-      const res = await fetch(url);
-      if (!res.ok) throw new Error("Pollinations API congestion. Intente nuevamente en breves.");
-      
-      const blob = await res.blob();
-      const file = new File([blob], `${recipeName}.png`, { type: "image/png" });
-      
-      // Subimos usando la mutación que ya graba en BD
-      const imageUrl = await uploadMutation.mutateAsync({ recipeName, file });
-      return imageUrl;
+      const { data, error } = await supabase.functions.invoke('generate-recipe-image', {
+        body: { recipe_name: recipeName, force },
+      });
+
+      if (error) throw error;
+      if (data?.error) throw new Error(data.error);
+
+      return data.image_url;
     },
     onSuccess: (_, variables) => {
       qc.invalidateQueries({ queryKey: ['recipe_images'] });
-      toast.success(`Receta generada: ${variables.recipeName}`);
+      toast.success(`Receta actualizada: ${variables.recipeName}`);
     },
-    onError: (err: any, variables) => {
-      console.error(`[MUTATION_FAIL] ${variables.recipeName}:`, err);
-      toast.error(`Aviso: ${err.message || 'Error de IA'}`);
+    onError: (err: any) => {
+      console.error(`[GENERATION_FAIL]:`, err);
+      toast.error(`Error de IA: ${err.message || 'Intente nuevamente'}`);
     },
   });
 }

@@ -1,0 +1,362 @@
+[
+  {
+    "originalFile": "Ejercicio - Aperturas con mancuernas.jpg",
+    "exerciseName": "Aperturas con mancuernas",
+    "storagePath": "exercises/aperturas-con-mancuernas-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/aperturas-con-mancuernas-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Aperturas declinadas con mancuernas.jpg",
+    "exerciseName": "Aperturas declinadas con mancuernas",
+    "storagePath": "exercises/aperturas-declinadas-con-mancuernas-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/aperturas-declinadas-con-mancuernas-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Aperturas en polea.jpg",
+    "exerciseName": "Aperturas en polea",
+    "storagePath": "exercises/aperturas-en-polea-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/aperturas-en-polea-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Aperturas inclinadas con mancuernas.jpg",
+    "exerciseName": "Aperturas inclinadas con mancuernas",
+    "storagePath": "exercises/aperturas-inclinadas-con-mancuernas-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/aperturas-inclinadas-con-mancuernas-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Cruce de poleas alto.jpg",
+    "exerciseName": "Cruce de poleas alto",
+    "storagePath": "exercises/cruce-de-poleas-alto-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/cruce-de-poleas-alto-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Cruce de poleas bajo.jpg",
+    "exerciseName": "Cruce de poleas bajo",
+    "storagePath": "exercises/cruce-de-poleas-bajo-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/cruce-de-poleas-bajo-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Dead bug.jpg",
+    "exerciseName": "Dead bug",
+    "storagePath": "exercises/dead-bug-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/dead-bug-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Dominadas asistidas.jpg",
+    "exerciseName": "Dominadas asistidas",
+    "storagePath": "exercises/dominadas-asistidas-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/dominadas-asistidas-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Dominadas con lastre.jpg",
+    "exerciseName": "Dominadas con lastre",
+    "storagePath": "exercises/dominadas-con-lastre-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/dominadas-con-lastre-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Dominadas explosivas.jpg",
+    "exerciseName": "Dominadas explosivas",
+    "storagePath": "exercises/dominadas-explosivas-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/dominadas-explosivas-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Dominadas negativas.jpg",
+    "exerciseName": "Dominadas negativas",
+    "storagePath": "exercises/dominadas-negativas-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/dominadas-negativas-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Dominadas tipo archer.jpg",
+    "exerciseName": "Dominadas tipo archer",
+    "storagePath": "exercises/dominadas-tipo-archer-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/dominadas-tipo-archer-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Dominadas.jpg",
+    "exerciseName": "Dominadas",
+    "storagePath": "exercises/dominadas-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/dominadas-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Elevaciones frontales.jpg",
+    "exerciseName": "Elevaciones frontales",
+    "storagePath": "exercises/elevaciones-frontales-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/elevaciones-frontales-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Elevaciones laterales inclinadas.jpg",
+    "exerciseName": "Elevaciones laterales inclinadas",
+    "storagePath": "exercises/elevaciones-laterales-inclinadas-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/elevaciones-laterales-inclinadas-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Encogimientos con barra.jpg",
+    "exerciseName": "Encogimientos con barra",
+    "storagePath": "exercises/encogimientos-con-barra-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/encogimientos-con-barra-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Encogimientos con mancuernas.jpg",
+    "exerciseName": "Encogimientos con mancuernas",
+    "storagePath": "exercises/encogimientos-con-mancuernas-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/encogimientos-con-mancuernas-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Encogimientos de hombros.jpg",
+    "exerciseName": "Encogimientos de hombros",
+    "storagePath": "exercises/encogimientos-de-hombros-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/encogimientos-de-hombros-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Face pull con banda.jpg",
+    "exerciseName": "Face pull con banda",
+    "storagePath": "exercises/face-pull-con-banda-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/face-pull-con-banda-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Face pull con cuerda.jpg",
+    "exerciseName": "Face pull con cuerda",
+    "storagePath": "exercises/face-pull-con-cuerda-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/face-pull-con-cuerda-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Face pull.jpg",
+    "exerciseName": "Face pull",
+    "storagePath": "exercises/face-pull-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/face-pull-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Flexiones a una mano.jpg",
+    "exerciseName": "Flexiones a una mano",
+    "storagePath": "exercises/flexiones-a-una-mano-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/flexiones-a-una-mano-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Flexiones con agarre cerrado.jpg",
+    "exerciseName": "Flexiones con agarre cerrado",
+    "storagePath": "exercises/flexiones-con-agarre-cerrado-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/flexiones-con-agarre-cerrado-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Flexiones con banda.jpg",
+    "exerciseName": "Flexiones con banda",
+    "storagePath": "exercises/flexiones-con-banda-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/flexiones-con-banda-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Flexiones con palmada.jpg",
+    "exerciseName": "Flexiones con palmada",
+    "storagePath": "exercises/flexiones-con-palmada-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/flexiones-con-palmada-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Flexiones explosivas.jpg",
+    "exerciseName": "Flexiones explosivas",
+    "storagePath": "exercises/flexiones-explosivas-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/flexiones-explosivas-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Flexiones tipo archer.jpg",
+    "exerciseName": "Flexiones tipo archer",
+    "storagePath": "exercises/flexiones-tipo-archer-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/flexiones-tipo-archer-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Flexiones.jpg",
+    "exerciseName": "Flexiones",
+    "storagePath": "exercises/flexiones-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/flexiones-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Hiperextensiones con peso.jpg",
+    "exerciseName": "Hiperextensiones con peso",
+    "storagePath": "exercises/hiperextensiones-con-peso-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/hiperextensiones-con-peso-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Hiperextensiones.jpg",
+    "exerciseName": "Hiperextensiones",
+    "storagePath": "exercises/hiperextensiones-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/hiperextensiones-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Peso muerto a una pierna.jpg",
+    "exerciseName": "Peso muerto a una pierna",
+    "storagePath": "exercises/peso-muerto-a-una-pierna-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/peso-muerto-a-una-pierna-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Peso muerto rumano.jpg",
+    "exerciseName": "Peso muerto rumano",
+    "storagePath": "exercises/peso-muerto-rumano-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/peso-muerto-rumano-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Peso muerto sumo.jpg",
+    "exerciseName": "Peso muerto sumo",
+    "storagePath": "exercises/peso-muerto-sumo-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/peso-muerto-sumo-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Peso muerto.jpg",
+    "exerciseName": "Peso muerto",
+    "storagePath": "exercises/peso-muerto-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/peso-muerto-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Press banca (1).jpg",
+    "exerciseName": "Press banca",
+    "storagePath": "exercises/press-banca-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-banca-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Press banca.jpg",
+    "exerciseName": "Press banca",
+    "storagePath": "exercises/press-banca-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-banca-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Press de banca con mancuernas.jpg",
+    "exerciseName": "Press de banca con mancuernas",
+    "storagePath": "exercises/press-de-banca-con-mancuernas-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-de-banca-con-mancuernas-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Press de pecho con agarre neutro.jpg",
+    "exerciseName": "Press de pecho con agarre neutro",
+    "storagePath": "exercises/press-de-pecho-con-agarre-neutro-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-de-pecho-con-agarre-neutro-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Press de pecho con pausa.jpg",
+    "exerciseName": "Press de pecho con pausa",
+    "storagePath": "exercises/press-de-pecho-con-pausa-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-de-pecho-con-pausa-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Press declinado con mancuernas.jpg",
+    "exerciseName": "Press declinado con mancuernas",
+    "storagePath": "exercises/press-declinado-con-mancuernas-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-declinado-con-mancuernas-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Press declinado.jpg",
+    "exerciseName": "Press declinado",
+    "storagePath": "exercises/press-declinado-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-declinado-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Press inclinado con mancuernas.jpg",
+    "exerciseName": "Press inclinado con mancuernas",
+    "storagePath": "exercises/press-inclinado-con-mancuernas-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-inclinado-con-mancuernas-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Press militar con mancuernas.jpg",
+    "exerciseName": "Press militar con mancuernas",
+    "storagePath": "exercises/press-militar-con-mancuernas-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-militar-con-mancuernas-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Press militar.jpg",
+    "exerciseName": "Press militar",
+    "storagePath": "exercises/press-militar-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-militar-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Pull-over con barra.jpg",
+    "exerciseName": "Pull-over con barra",
+    "storagePath": "exercises/pull-over-con-barra-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/pull-over-con-barra-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Pullover con mancuerna.jpg",
+    "exerciseName": "Pullover con mancuerna",
+    "storagePath": "exercises/pullover-con-mancuerna-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/pullover-con-mancuerna-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Pullover en polea.jpg",
+    "exerciseName": "Pullover en polea",
+    "storagePath": "exercises/pullover-en-polea-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/pullover-en-polea-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Pullover.jpg",
+    "exerciseName": "Pullover",
+    "storagePath": "exercises/pullover-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/pullover-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Remo al cuello.jpg",
+    "exerciseName": "Remo al cuello",
+    "storagePath": "exercises/remo-al-cuello-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/remo-al-cuello-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Remo alto con barra.jpg",
+    "exerciseName": "Remo alto con barra",
+    "storagePath": "exercises/remo-alto-con-barra-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/remo-alto-con-barra-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Remo con barra T agarre estrecho.jpg",
+    "exerciseName": "Remo con barra T agarre estrecho",
+    "storagePath": "exercises/remo-con-barra-t-agarre-estrecho-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/remo-con-barra-t-agarre-estrecho-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Remo con barra.jpg",
+    "exerciseName": "Remo con barra",
+    "storagePath": "exercises/remo-con-barra-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/remo-con-barra-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Remo con mancuerna en banco.jpg",
+    "exerciseName": "Remo con mancuerna en banco",
+    "storagePath": "exercises/remo-con-mancuerna-en-banco-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/remo-con-mancuerna-en-banco-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Remo con mancuerna.jpg",
+    "exerciseName": "Remo con mancuerna",
+    "storagePath": "exercises/remo-con-mancuerna-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/remo-con-mancuerna-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Remo en polea baja.jpg",
+    "exerciseName": "Remo en polea baja",
+    "storagePath": "exercises/remo-en-polea-baja-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/remo-en-polea-baja-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Remo en TRX.jpg",
+    "exerciseName": "Remo en TRX",
+    "storagePath": "exercises/remo-en-trx-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/remo-en-trx-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Remo invertido.jpg",
+    "exerciseName": "Remo invertido",
+    "storagePath": "exercises/remo-invertido-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/remo-invertido-female-start.jpg"
+  },
+  {
+    "originalFile": "Ejercicio - Remo pendlay.jpg",
+    "exerciseName": "Remo pendlay",
+    "storagePath": "exercises/remo-pendlay-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/remo-pendlay-female-start.jpg"
+  },
+  {
+    "originalFile": "press_plano_con_mancuernas_1776011285614.png",
+    "exerciseName": "press_plano_con_mancuernas_1776011285614",
+    "storagePath": "exercises/press-plano-con-mancuernas-1776011285614-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-plano-con-mancuernas-1776011285614-female-start.jpg"
+  },
+  {
+    "originalFile": "Receta - Ensalada de pollo a la plancha.jpg",
+    "exerciseName": "Receta - Ensalada de pollo a la plancha",
+    "storagePath": "exercises/receta-ensalada-de-pollo-a-la-plancha-female-start.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/receta-ensalada-de-pollo-a-la-plancha-female-start.jpg"
+  }
+]

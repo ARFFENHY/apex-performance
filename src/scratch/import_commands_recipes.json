@@ -1,0 +1,122 @@
+[
+  {
+    "originalFile": "Receta - Atún con huevo duro.jpg",
+    "recipeName": "Atún con huevo duro",
+    "storagePath": "recipes/atun-con-huevo-duro.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/recipes/atun-con-huevo-duro.jpg"
+  },
+  {
+    "originalFile": "Receta - Berenjena al horno con carne magra.jpg",
+    "recipeName": "Berenjena al horno con carne magra",
+    "storagePath": "recipes/berenjena-al-horno-con-carne-magra.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/recipes/berenjena-al-horno-con-carne-magra.jpg"
+  },
+  {
+    "originalFile": "Receta - Caldo de pollo casero.jpg",
+    "recipeName": "Caldo de pollo casero",
+    "storagePath": "recipes/caldo-de-pollo-casero.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/recipes/caldo-de-pollo-casero.jpg"
+  },
+  {
+    "originalFile": "Receta - Carne magra con ensalada.jpg",
+    "recipeName": "Carne magra con ensalada",
+    "storagePath": "recipes/carne-magra-con-ensalada.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/recipes/carne-magra-con-ensalada.jpg"
+  },
+  {
+    "originalFile": "Receta - Ensalada de atún y tomate.jpg",
+    "recipeName": "Ensalada de atún y tomate",
+    "storagePath": "recipes/ensalada-de-atun-y-tomate.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/recipes/ensalada-de-atun-y-tomate.jpg"
+  },
+  {
+    "originalFile": "Receta - Ensalada de garbanzos light.jpg",
+    "recipeName": "Ensalada de garbanzos light",
+    "storagePath": "recipes/ensalada-de-garbanzos-light.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/recipes/ensalada-de-garbanzos-light.jpg"
+  },
+  {
+    "originalFile": "Receta - Ensalada de lentejas light.jpg",
+    "recipeName": "Ensalada de lentejas light",
+    "storagePath": "recipes/ensalada-de-lentejas-light.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/recipes/ensalada-de-lentejas-light.jpg"
+  },
+  {
+    "originalFile": "Receta - Ensalada de pollo a la plancha.jpg",
+    "recipeName": "Ensalada de pollo a la plancha",
+    "storagePath": "recipes/ensalada-de-pollo-a-la-plancha.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/recipes/ensalada-de-pollo-a-la-plancha.jpg"
+  },
+  {
+    "originalFile": "Receta - Ensalada de quinoa y pollo.jpg",
+    "recipeName": "Ensalada de quinoa y pollo",
+    "storagePath": "recipes/ensalada-de-quinoa-y-pollo.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/recipes/ensalada-de-quinoa-y-pollo.jpg"
+  },
+  {
+    "originalFile": "Receta - Merluza con espinaca.jpg",
+    "recipeName": "Merluza con espinaca",
+    "storagePath": "recipes/merluza-con-espinaca.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/recipes/merluza-con-espinaca.jpg"
+  },
+  {
+    "originalFile": "Receta - Omelette de claras con verduras.jpg",
+    "recipeName": "Omelette de claras con verduras",
+    "storagePath": "recipes/omelette-de-claras-con-verduras.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/recipes/omelette-de-claras-con-verduras.jpg"
+  },
+  {
+    "originalFile": "Receta - Pechuga de pollo con ensalada verde.jpg",
+    "recipeName": "Pechuga de pollo con ensalada verde",
+    "storagePath": "recipes/pechuga-de-pollo-con-ensalada-verde.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/recipes/pechuga-de-pollo-con-ensalada-verde.jpg"
+  },
+  {
+    "originalFile": "Receta - Pescado al horno con verduras.jpg",
+    "recipeName": "Pescado al horno con verduras",
+    "storagePath": "recipes/pescado-al-horno-con-verduras.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/recipes/pescado-al-horno-con-verduras.jpg"
+  },
+  {
+    "originalFile": "Receta - Pollo al limón con ensalada.jpg",
+    "recipeName": "Pollo al limón con ensalada",
+    "storagePath": "recipes/pollo-al-limon-con-ensalada.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/recipes/pollo-al-limon-con-ensalada.jpg"
+  },
+  {
+    "originalFile": "Receta - Pollo con brócoli al vapor.jpg",
+    "recipeName": "Pollo con brócoli al vapor",
+    "storagePath": "recipes/pollo-con-brocoli-al-vapor.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/recipes/pollo-con-brocoli-al-vapor.jpg"
+  },
+  {
+    "originalFile": "Receta - Revuelto de claras con champiñones.jpg",
+    "recipeName": "Revuelto de claras con champiñones",
+    "storagePath": "recipes/revuelto-de-claras-con-champinones.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/recipes/revuelto-de-claras-con-champinones.jpg"
+  },
+  {
+    "originalFile": "Receta - Sopa de verduras.jpg",
+    "recipeName": "Sopa de verduras",
+    "storagePath": "recipes/sopa-de-verduras.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/recipes/sopa-de-verduras.jpg"
+  },
+  {
+    "originalFile": "Receta - Tortilla de espinaca light.jpg",
+    "recipeName": "Tortilla de espinaca light",
+    "storagePath": "recipes/tortilla-de-espinaca-light.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/recipes/tortilla-de-espinaca-light.jpg"
+  },
+  {
+    "originalFile": "Receta - Wrap de lechuga con pollo.jpg",
+    "recipeName": "Wrap de lechuga con pollo",
+    "storagePath": "recipes/wrap-de-lechuga-con-pollo.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/recipes/wrap-de-lechuga-con-pollo.jpg"
+  },
+  {
+    "originalFile": "Receta - Zucchini relleno de pollo.jpg",
+    "recipeName": "Zucchini relleno de pollo",
+    "storagePath": "recipes/zucchini-relleno-de-pollo.jpg",
+    "publicUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/recipes/zucchini-relleno-de-pollo.jpg"
+  }
+]

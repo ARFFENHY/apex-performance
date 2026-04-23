@@ -1,0 +1,524 @@
+[
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Ab wheel.jpg",
+    "remotePath": "exercises/ab-wheel-rollout.jpg",
+    "exerciseName": "Ab wheel rollout",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/ab-wheel-rollout.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Aperturas con mancuernas.jpg",
+    "remotePath": "exercises/aperturas-con-mancuernas-plano.jpg",
+    "exerciseName": "Aperturas con mancuernas plano",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/aperturas-con-mancuernas-plano.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Aperturas declinadas con mancuernas.jpg",
+    "remotePath": "exercises/aperturas-declinadas-con-mancuernas.jpg",
+    "exerciseName": "Aperturas declinadas con mancuernas",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/aperturas-declinadas-con-mancuernas.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Aperturas en polea.jpg",
+    "remotePath": "exercises/aperturas-en-polea.jpg",
+    "exerciseName": "Aperturas en polea",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/aperturas-en-polea.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Aperturas inclinadas con mancuernas.jpg",
+    "remotePath": "exercises/aperturas-inclinadas-con-mancuernas.jpg",
+    "exerciseName": "Aperturas inclinadas con mancuernas",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/aperturas-inclinadas-con-mancuernas.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Cruce de poleas alto.jpg",
+    "remotePath": "exercises/cruce-de-poleas-alto.jpg",
+    "exerciseName": "Cruce de poleas alto",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/cruce-de-poleas-alto.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Cruce de poleas bajo.jpg",
+    "remotePath": "exercises/cruce-de-poleas-bajo.jpg",
+    "exerciseName": "Cruce de poleas bajo",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/cruce-de-poleas-bajo.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Curl alterno con mancuernas.jpg",
+    "remotePath": "exercises/curl-alterno-con-mancuernas.jpg",
+    "exerciseName": "Curl alterno con mancuernas",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/curl-alterno-con-mancuernas.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Curl con barra EZ.jpg",
+    "remotePath": "exercises/curl-con-barra-ez.jpg",
+    "exerciseName": "Curl con barra EZ",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/curl-con-barra-ez.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Curl con barra.jpg",
+    "remotePath": "exercises/curl-con-barra-z.jpg",
+    "exerciseName": "Curl con barra Z",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/curl-con-barra-z.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Curl con cable a una mano.jpg",
+    "remotePath": "exercises/curl-con-cable-a-una-mano.jpg",
+    "exerciseName": "Curl con cable a una mano",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/curl-con-cable-a-una-mano.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Curl con mancuernas.jpg",
+    "remotePath": "exercises/curl-con-mancuernas-alterno.jpg",
+    "exerciseName": "Curl con mancuernas alterno",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/curl-con-mancuernas-alterno.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Curl concentrado en banco.jpg",
+    "remotePath": "exercises/curl-concentrado.jpg",
+    "exerciseName": "Curl concentrado",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/curl-concentrado.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Curl concentrado.jpg",
+    "remotePath": "exercises/curl-concentrado.jpg",
+    "exerciseName": "Curl concentrado",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/curl-concentrado.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Curl en polea baja.jpg",
+    "remotePath": "exercises/curl-en-polea-baja.jpg",
+    "exerciseName": "Curl en polea baja",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/curl-en-polea-baja.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Curl martillo cruzado.jpg",
+    "remotePath": "exercises/curl-martillo.jpg",
+    "exerciseName": "Curl martillo",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/curl-martillo.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Curl martillo.jpg",
+    "remotePath": "exercises/curl-martillo.jpg",
+    "exerciseName": "Curl martillo",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/curl-martillo.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Curl spider con barra.jpg",
+    "remotePath": "exercises/curl-spider-con-barra.jpg",
+    "exerciseName": "Curl spider con barra",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/curl-spider-con-barra.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Dominadas asistidas.jpg",
+    "remotePath": "exercises/dominadas-asistidas.jpg",
+    "exerciseName": "Dominadas asistidas",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/dominadas-asistidas.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Dominadas con lastre.jpg",
+    "remotePath": "exercises/dominadas-con-lastre.jpg",
+    "exerciseName": "Dominadas con lastre",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/dominadas-con-lastre.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Dominadas explosivas.jpg",
+    "remotePath": "exercises/dominadas-explosivas.jpg",
+    "exerciseName": "Dominadas explosivas",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/dominadas-explosivas.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Dominadas negativas.jpg",
+    "remotePath": "exercises/dominadas-negativas.jpg",
+    "exerciseName": "Dominadas negativas",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/dominadas-negativas.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Dominadas tipo archer.jpg",
+    "remotePath": "exercises/dominadas-tipo-archer.jpg",
+    "exerciseName": "Dominadas tipo archer",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/dominadas-tipo-archer.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Dominadas.jpg",
+    "remotePath": "exercises/dominadas-asistidas.jpg",
+    "exerciseName": "Dominadas asistidas",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/dominadas-asistidas.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Elevaciones frontales alternas.jpg",
+    "remotePath": "exercises/elevaciones-frontales-alternas.jpg",
+    "exerciseName": "Elevaciones frontales alternas",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/elevaciones-frontales-alternas.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Elevaciones frontales con disco.jpg",
+    "remotePath": "exercises/elevaciones-frontales-con-disco.jpg",
+    "exerciseName": "Elevaciones frontales con disco",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/elevaciones-frontales-con-disco.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Elevaciones frontales.jpg",
+    "remotePath": "exercises/elevaciones-frontales-alternas.jpg",
+    "exerciseName": "Elevaciones frontales alternas",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/elevaciones-frontales-alternas.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Elevaciones laterales con banda.jpg",
+    "remotePath": "exercises/elevaciones-laterales-con-banda.jpg",
+    "exerciseName": "Elevaciones laterales con banda",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/elevaciones-laterales-con-banda.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Elevaciones laterales inclinadas.jpg",
+    "remotePath": "exercises/elevaciones-laterales-inclinadas.jpg",
+    "exerciseName": "Elevaciones laterales inclinadas",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/elevaciones-laterales-inclinadas.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Elevaciones laterales.jpg",
+    "remotePath": "exercises/elevaciones-laterales-en-polea.jpg",
+    "exerciseName": "Elevaciones laterales en polea",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/elevaciones-laterales-en-polea.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Elevaciones YTWL.jpg",
+    "remotePath": "exercises/elevaciones-ytwl.jpg",
+    "exerciseName": "Elevaciones YTWL",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/elevaciones-ytwl.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Encogimientos con barra.jpg",
+    "remotePath": "exercises/encogimientos-con-barra.jpg",
+    "exerciseName": "Encogimientos con barra",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/encogimientos-con-barra.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Encogimientos con mancuernas.jpg",
+    "remotePath": "exercises/encogimientos-con-mancuernas.jpg",
+    "exerciseName": "Encogimientos con mancuernas",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/encogimientos-con-mancuernas.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Encogimientos de hombros.jpg",
+    "remotePath": "exercises/encogimientos-de-hombros.jpg",
+    "exerciseName": "Encogimientos de hombros",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/encogimientos-de-hombros.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Face pull con banda.jpg",
+    "remotePath": "exercises/face-pull.jpg",
+    "exerciseName": "Face pull",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/face-pull.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Face pull con cuerda.jpg",
+    "remotePath": "exercises/face-pull-con-cuerda.jpg",
+    "exerciseName": "Face pull con cuerda",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/face-pull-con-cuerda.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Face pull.jpg",
+    "remotePath": "exercises/face-pull.jpg",
+    "exerciseName": "Face pull",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/face-pull.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Flexiones a una mano.jpg",
+    "remotePath": "exercises/flexiones-a-una-mano.jpg",
+    "exerciseName": "Flexiones a una mano",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/flexiones-a-una-mano.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Flexiones con agarre cerrado.jpg",
+    "remotePath": "exercises/flexiones-con-agarre-cerrado.jpg",
+    "exerciseName": "Flexiones con agarre cerrado",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/flexiones-con-agarre-cerrado.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Flexiones con banda.jpg",
+    "remotePath": "exercises/flexiones-con-banda.jpg",
+    "exerciseName": "Flexiones con banda",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/flexiones-con-banda.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Flexiones con palmada.jpg",
+    "remotePath": "exercises/flexiones-con-palmada.jpg",
+    "exerciseName": "Flexiones con palmada",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/flexiones-con-palmada.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Flexiones explosivas.jpg",
+    "remotePath": "exercises/flexiones-explosivas.jpg",
+    "exerciseName": "Flexiones explosivas",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/flexiones-explosivas.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Flexiones tipo archer.jpg",
+    "remotePath": "exercises/flexiones-tipo-archer.jpg",
+    "exerciseName": "Flexiones tipo archer",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/flexiones-tipo-archer.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Flexiones.jpg",
+    "remotePath": "exercises/flexiones-de-pecho.jpg",
+    "exerciseName": "Flexiones de pecho",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/flexiones-de-pecho.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Handstand push-up.jpg",
+    "remotePath": "exercises/handstand-push-up.jpg",
+    "exerciseName": "Handstand push-up",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/handstand-push-up.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Hiperextensiones con peso.jpg",
+    "remotePath": "exercises/hiperextensiones.jpg",
+    "exerciseName": "Hiperextensiones",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/hiperextensiones.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Hiperextensiones.jpg",
+    "remotePath": "exercises/hiperextensiones.jpg",
+    "exerciseName": "Hiperextensiones",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/hiperextensiones.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Mountain climbers.jpg",
+    "remotePath": "exercises/mountain-climbers.jpg",
+    "exerciseName": "Mountain climbers",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/mountain-climbers.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Peso muerto a una pierna.jpg",
+    "remotePath": "exercises/peso-muerto-a-una-pierna.jpg",
+    "exerciseName": "Peso muerto a una pierna",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/peso-muerto-a-una-pierna.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Peso muerto rumano.jpg",
+    "remotePath": "exercises/peso-muerto-rumano-con-barra.jpg",
+    "exerciseName": "Peso muerto rumano con barra",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/peso-muerto-rumano-con-barra.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Peso muerto sumo.jpg",
+    "remotePath": "exercises/peso-muerto-sumo.jpg",
+    "exerciseName": "Peso muerto sumo",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/peso-muerto-sumo.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Peso muerto.jpg",
+    "remotePath": "exercises/peso-muerto-sumo.jpg",
+    "exerciseName": "Peso muerto sumo",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/peso-muerto-sumo.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Pike push-up.jpg",
+    "remotePath": "exercises/pike-push-up.jpg",
+    "exerciseName": "Pike push-up",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/pike-push-up.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Press Arnold de pie.jpg",
+    "remotePath": "exercises/press-arnold.jpg",
+    "exerciseName": "Press Arnold",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-arnold.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Press Arnold sentado.jpg",
+    "remotePath": "exercises/press-arnold.jpg",
+    "exerciseName": "Press Arnold",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-arnold.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Press Arnold.jpg",
+    "remotePath": "exercises/press-arnold.jpg",
+    "exerciseName": "Press Arnold",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-arnold.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Press con kettlebell.jpg",
+    "remotePath": "exercises/press-con-kettlebell.jpg",
+    "exerciseName": "Press con kettlebell",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-con-kettlebell.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Press de banca con mancuernas.jpg",
+    "remotePath": "exercises/press-de-banca-con-mancuernas.jpg",
+    "exerciseName": "Press de banca con mancuernas",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-de-banca-con-mancuernas.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Press de pecho con agarre neutro.jpg",
+    "remotePath": "exercises/press-de-pecho-con-agarre-neutro.jpg",
+    "exerciseName": "Press de pecho con agarre neutro",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-de-pecho-con-agarre-neutro.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Press de pecho con pausa.jpg",
+    "remotePath": "exercises/press-de-pecho-con-pausa.jpg",
+    "exerciseName": "Press de pecho con pausa",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-de-pecho-con-pausa.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Press declinado con mancuernas.jpg",
+    "remotePath": "exercises/press-declinado-con-mancuernas.jpg",
+    "exerciseName": "Press declinado con mancuernas",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-declinado-con-mancuernas.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Press declinado.jpg",
+    "remotePath": "exercises/press-declinado-con-mancuernas.jpg",
+    "exerciseName": "Press declinado con mancuernas",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-declinado-con-mancuernas.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Press inclinado con mancuernas.jpg",
+    "remotePath": "exercises/press-inclinado-con-mancuernas.jpg",
+    "exerciseName": "Press inclinado con mancuernas",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-inclinado-con-mancuernas.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Press militar con barra.jpg",
+    "remotePath": "exercises/press-militar-con-barra-de-pie.jpg",
+    "exerciseName": "Press militar con barra de pie",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-militar-con-barra-de-pie.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Press militar con mancuernas.jpg",
+    "remotePath": "exercises/press-militar-con-mancuernas.jpg",
+    "exerciseName": "Press militar con mancuernas",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-militar-con-mancuernas.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Press militar de pie.jpg",
+    "remotePath": "exercises/press-militar-de-pie.jpg",
+    "exerciseName": "Press militar de pie",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-militar-de-pie.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Press militar sentado.jpg",
+    "remotePath": "exercises/press-militar-sentado-con-barra.jpg",
+    "exerciseName": "Press militar sentado con barra",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-militar-sentado-con-barra.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Press militar.jpg",
+    "remotePath": "exercises/press-militar-de-pie.jpg",
+    "exerciseName": "Press militar de pie",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/press-militar-de-pie.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Pull-over con barra.jpg",
+    "remotePath": "exercises/pull-over-con-barra.jpg",
+    "exerciseName": "Pull-over con barra",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/pull-over-con-barra.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Pullover con mancuerna.jpg",
+    "remotePath": "exercises/pullover-con-mancuerna.jpg",
+    "exerciseName": "Pullover con mancuerna",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/pullover-con-mancuerna.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Pullover en polea.jpg",
+    "remotePath": "exercises/pullover-en-polea-alta.jpg",
+    "exerciseName": "Pullover en polea alta",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/pullover-en-polea-alta.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Pullover.jpg",
+    "remotePath": "exercises/pull-over-con-barra.jpg",
+    "exerciseName": "Pull-over con barra",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/pull-over-con-barra.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Push press con barra.jpg",
+    "remotePath": "exercises/push-press.jpg",
+    "exerciseName": "Push press",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/push-press.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Push press con mancuernas.jpg",
+    "remotePath": "exercises/push-press.jpg",
+    "exerciseName": "Push press",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/push-press.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Remo al cuello.jpg",
+    "remotePath": "exercises/remo-al-cuello-con-barra.jpg",
+    "exerciseName": "Remo al cuello con barra",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/remo-al-cuello-con-barra.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Remo alto con barra.jpg",
+    "remotePath": "exercises/remo-alto-con-barra.jpg",
+    "exerciseName": "Remo alto con barra",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/remo-alto-con-barra.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Remo con barra T agarre estrecho.jpg",
+    "remotePath": "exercises/remo-con-barra-t-agarre-estrecho.jpg",
+    "exerciseName": "Remo con barra T agarre estrecho",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/remo-con-barra-t-agarre-estrecho.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Remo con barra.jpg",
+    "remotePath": "exercises/remo-con-barra-agarre-prono.jpg",
+    "exerciseName": "Remo con barra agarre prono",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/remo-con-barra-agarre-prono.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Remo con mancuerna en banco.jpg",
+    "remotePath": "exercises/remo-con-mancuerna-en-banco.jpg",
+    "exerciseName": "Remo con mancuerna en banco",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/remo-con-mancuerna-en-banco.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Remo con mancuerna.jpg",
+    "remotePath": "exercises/remo-con-mancuerna-en-banco.jpg",
+    "exerciseName": "Remo con mancuerna en banco",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/remo-con-mancuerna-en-banco.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Remo en polea baja.jpg",
+    "remotePath": "exercises/remo-en-polea-baja.jpg",
+    "exerciseName": "Remo en polea baja",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/remo-en-polea-baja.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Remo en TRX.jpg",
+    "remotePath": "exercises/remo-en-trx.jpg",
+    "exerciseName": "Remo en TRX",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/remo-en-trx.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Remo invertido.jpg",
+    "remotePath": "exercises/remo-invertido-australian-pull-up.jpg",
+    "exerciseName": "Remo invertido (australian pull-up)",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/remo-invertido-australian-pull-up.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Remo pendlay.jpg",
+    "remotePath": "exercises/remo-pendlay.jpg",
+    "exerciseName": "Remo pendlay",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/remo-pendlay.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Rotaciones externas con banda.jpg",
+    "remotePath": "exercises/rotaciones-externas-con-banda.jpg",
+    "exerciseName": "Rotaciones externas con banda",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/rotaciones-externas-con-banda.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Russian twist.jpg",
+    "remotePath": "exercises/russian-twist.jpg",
+    "exerciseName": "Russian twist",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/russian-twist.jpg"
+  },
+  {
+    "localPath": "C:\\Users\\arffe\\Desktop\\ejercicios\\Ejercicio - Sentadilla.jpg",
+    "remotePath": "exercises/sentadilla-hack.jpg",
+    "exerciseName": "Sentadilla hack",
+    "imageUrl": "https://lbxjyxovbcprhatsbvkp.supabase.co/storage/v1/object/public/photos/exercises/sentadilla-hack.jpg"
+  }
+]
